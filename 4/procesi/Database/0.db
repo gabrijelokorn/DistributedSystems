@@ -1,0 +1,8 @@
+ListenURL:  :8100
+GetPutURL:  localhost:8101
+CommitURL:  glava
+
+Server listening at wn162.arnes.si:8100
+Added: [ test false false ]
+Result:  Value:true
+Result:  todos:{Task:"test" Commited:true}

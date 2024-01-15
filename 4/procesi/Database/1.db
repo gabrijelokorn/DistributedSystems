@@ -1,0 +1,6 @@
+ListenURL:  :8101
+GetPutURL:  localhost:8102
+CommitURL:  localhost:8100
+
+Server listening at wn162.arnes.si:8101
+Added: [ test false false ]
